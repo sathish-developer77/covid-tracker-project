@@ -1,0 +1,84 @@
+.main{
+
+    display: flex;
+    
+    align-items:center;
+    
+    justify-content:center;
+    
+    /* background-color: rgb(13, 238, 227); */
+    
+    padding-bottom:5%;
+    
+    }
+
+    .box{
+
+        margin-top:7%;
+        
+        background-color:rgba(161, 209, 228, 0.897);
+        
+        width:40%;
+        
+        height:500px;
+        
+        box-sizing: border-box;
+
+        padding-bottom:20px;
+        
+        box-shadow: 10px 10px 10px 10px rgb(27, 25, 25);
+
+        overflow:scroll;
+        
+        }
+        
+        .content{
+
+            padding:8% 10%;
+            
+            }
+            /* .main{
+
+                display: flex;
+                
+                align-items:center;
+                
+                justify-content:center;
+                
+                background-color: black;
+                
+                padding-bottom:800%;
+                
+                } */
+                box{
+
+                    margin-top:7%;
+                    
+                    background-color: rgb(236, 22, 40);
+                    
+                    width:50%;
+                    
+                    height:550px;
+                    
+                    box-sizing: border-box;
+                    
+                    box-shadow: 10px 10px 10px 10px rgb(29, 1, 1);
+
+
+                    
+                    }
+                    
+                    .content{
+
+                        padding:8% 10%;
+                        
+                        }                            
+                     .background{
+                         
+                         background-image: url(./image/world-map.jpeg);
+                         padding-bottom: 10%;
+                     }   
+
+                     .scroll-page{
+                         color: black;
+                     }
